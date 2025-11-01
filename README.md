@@ -1,11 +1,3 @@
----
-
-```markdown
-# 🚦 Smart Traffic Management using Image Dataset
-
-## 📘 Project Overview
-This project presents an **AI-powered Smart Traffic Management System** that uses **image datasets** to analyze real-time traffic flow.  
-The system leverages **computer vision** and **deep learning** techniques to detect and classify vehicles, estimate congestion levels, and generate data-driven insights for intelligent traffic control.
 
 ---
 
